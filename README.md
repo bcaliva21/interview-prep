@@ -39,3 +39,8 @@
       - find mid (Floyd's Cycle Detection)
       - reverse mid to end
       - compare head VALUES to mid VALUES
+  - 328. Odd Even Linked List
+    - Failure
+      - watched a few YouTube videos and solved again
+    - February 12
+    - Notes: two pointers, go slow and logically assign the nodes with O(n) time complexity
