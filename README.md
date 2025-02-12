@@ -16,5 +16,11 @@
   - 141. Linked List Cycle
     - Success
     - February 12
-    - Notes: fast and slow pointer strat
+    - Notes: fast and slow pointer (Floyd's Cycle Detection) 
       - move pointers before evaluating slow === fast
+  - 142. Linked List Cycle II
+    - Success
+    - February 12
+    - Notes: fast and slow pointer (Floyd's Cycle Detection)
+      - after a cycle is determined, increment headPointer and fastPointer by one'
+      - when these pointers meet, you have found the cycle starting point
