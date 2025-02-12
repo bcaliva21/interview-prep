@@ -44,3 +44,8 @@
       - watched a few YouTube videos and solved again
     - February 12
     - Notes: two pointers, go slow and logically assign the nodes with O(n) time complexity
+  - 2095. Delete the Middle Node of a Linked List
+    - Success
+    - February 12
+    - Notes: Use the Floyd Cycle Detection to find ONE BEFORE mid
+      - remove the middle node using ONE BEFORE mid
