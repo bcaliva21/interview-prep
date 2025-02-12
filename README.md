@@ -34,7 +34,7 @@
   - 234. Palidrome Linked List
     - Failure
       - compared ListNode's INSTEAD of comparing values
-    - February 142
+    - February 12
     - Notes: Three step process
       - find mid (Floyd's Cycle Detection)
       - reverse mid to end
