@@ -1,11 +1,11 @@
 # interview-prep
 
 ## Linked Lists
-  - 206. Reverse Linked List
+  - 206 Reverse Linked List
     - Success
     - February 12
     - Notes: use current, previous, temp to reassign node pointers
-  - 92. Reverse Linked List II
+  - 92 Reverse Linked List II
     - Failure
       - watched neetcode to study
     - February 12
@@ -13,25 +13,25 @@
       - find left position
       - reverse from left position to right position
       - reconcile broken list using leftPrevious.next.next and leftPrevious.next
-  - 141. Linked List Cycle
+  - 141 Linked List Cycle
     - Success
     - February 12
     - Notes: fast and slow pointer (Floyd's Cycle Detection) 
       - move pointers before evaluating slow === fast
-  - 142. Linked List Cycle II
+  - 142 Linked List Cycle II
     - Success
     - February 12
     - Notes: fast and slow pointer (Floyd's Cycle Detection)
       - after a cycle is determined, increment headPointer and fastPointer by one'
       - when these pointers meet, you have found the cycle starting point
-  - 160. Intersection of Two Linked Lists
+  - 160 Intersection of Two Linked Lists
     - Failure
       - missed the while loop conditional
     - February 12
     - Notes: use two pointers to iterate through each list
       - when a pointer reaches the end of it's list, assign it to the other list head
       - when the pointers match, then break the loop, return either pointer
-  - 234. Palidrome Linked List
+  - 234 Palidrome Linked List
     - Failure
       - compared ListNode's INSTEAD of comparing values
     - February 12
@@ -39,23 +39,23 @@
       - find mid (Floyd's Cycle Detection)
       - reverse mid to end
       - compare head VALUES to mid VALUES
-  - 328. Odd Even Linked List
+  - 328 Odd Even Linked List
     - Failure
       - watched a few YouTube videos and solved again
     - February 12
     - Notes: two pointers, go slow and logically assign the nodes with O(n) time complexity
-  - 2095. Delete the Middle Node of a Linked List
+  - 2095 Delete the Middle Node of a Linked List
     - Success
     - February 12
     - Notes: Use the Floyd Cycle Detection to find ONE BEFORE mid
       - remove the middle node using ONE BEFORE mid
-  - 86. Partition List
+  - 86 Partition List
     - Success
     - February 12
     - Notes: Collect values into left and right dummy Lists
       - point left list to head of right list
       - set right list tail to point to null to remove list cycle
-  - 2487. Remove Nodes from Linked List
+  - 2487 Remove Nodes from Linked List
     - Failure
       - watched neetcode
     - February 12
@@ -63,3 +63,8 @@
       - if value is not gte max, then remove it from list
       - when returning the list, do not forget to reverse it again
       - a reverse helper function is very helpful here!
+  - 147 Insertion Sort List
+    - Failure
+      - read some leetcode solutions
+    - Notes: use a dummy node
+      - start each interation with a while loop to position prev to insert current
