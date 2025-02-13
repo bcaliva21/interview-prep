@@ -55,3 +55,11 @@
     - Notes: Collect values into left and right dummy Lists
       - point left list to head of right list
       - set right list tail to point to null to remove list cycle
+  - 2487. Remove Nodes from Linked List
+    - Failure
+      - watched neetcode
+    - February 12
+    - Notes: Reverse the list and keep track of max
+      - if value is not gte max, then remove it from list
+      - when returning the list, do not forget to reverse it again
+      - a reverse helper function is very helpful here!
