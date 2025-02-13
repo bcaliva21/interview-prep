@@ -12,6 +12,11 @@
     - Notes: key here is remembering what inorder traversal means
       - more impressive to solve this without a nested dfs function and utility array
       - but going for naive first and improving it is also good
+  - 104 Maximum Depth of Binary Tree
+    - Success
+    - February 13
+    - Notes: base case returns 0, math.max on both recursive functions for left/right
+      - sides of the tree
 
 ## Linked Lists
   - 206 Reverse Linked List
