@@ -1,5 +1,18 @@
 # interview-prep
 
+## Trees
+  - 100 Same Tree
+    - Success
+    - February 13
+    - Notes: determine base cases and execute them with them
+      - isSameTree on left and right nodes
+  - 94 Binary Tree Inorder Traversal
+    - Success
+    - February 13
+    - Notes: key here is remembering what inorder traversal means
+      - more impressive to solve this without a nested dfs function and utility array
+      - but going for naive first and improving it is also good
+
 ## Linked Lists
   - 206 Reverse Linked List
     - Success
