@@ -49,3 +49,9 @@
     - February 12
     - Notes: Use the Floyd Cycle Detection to find ONE BEFORE mid
       - remove the middle node using ONE BEFORE mid
+  - 86. Partition List
+    - Success
+    - February 12
+    - Notes: Collect values into left and right dummy Lists
+      - point left list to head of right list
+      - set right list tail to point to null to remove list cycle
