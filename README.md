@@ -49,7 +49,15 @@
     - Success
     - February 14
     - Notes: BFS - be smart about where you define variables with the while/for loop
-
+  - 538 Convert BST to Greater Tree
+    - Failure
+      - watched neetcode's solution
+    - February 14
+    - Notes: Use a global variable in situations where the current root depend upon it's children for something
+      - don't get fancy passing extra variables to dfs funcs unless it's absolutely necessary, it gets messy fast
+      - have a global currentSum variable
+      - traverse the tree with dfs
+      - process the nodes in reverse inorder (right,root,left)
 
 ## Meta Practice Questions
   - Designer PDF Viewer
