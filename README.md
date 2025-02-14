@@ -41,6 +41,16 @@
       - save the bottomLeft of each level of bfs
       - there is an optimization here, but I didn't get to it in my 15 minutes time limit this practice session
 
+## Meta Practice Questions
+  - Designer PDF Viewer
+    - Success
+    - February 13
+    - Notes: Questions surely won't be this easy
+  - Left Rotation
+    - Success
+    - February 13
+    - Notes: Man... and I thought the PDF viewer question was easy xD
+
 ## Linked Lists
   - 206 Reverse Linked List
     - Success
