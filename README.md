@@ -58,6 +58,16 @@
       - have a global currentSum variable
       - traverse the tree with dfs
       - process the nodes in reverse inorder (right,root,left)
+  - 988 Smallest String Starting From Leaf
+    - Failure
+      - watched neetcode's solution
+      - studied a few leetcode solutions
+    - February 14
+    - Notes: THIS ONE IS TOUGH 
+      - first off: String.fromCharCode(0 + 97) = 'a' remember fromCharCode and 97 to get alpha values from 0 - 25 
+      - the trick here is TWO global variables
+      - typical dfs, if you are at a leaf node, then check if your register is less than your resString
+      - remember to clean your register with register = register.slice(1) to avoid duplicates
 
 ## Meta Practice Questions
   - Designer PDF Viewer
