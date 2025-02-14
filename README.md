@@ -28,6 +28,11 @@
       - trust your recursive, tree solving instincts
         - is head null? getMid; create bst root from mid.val; if head eq mid return root;
         - root.left = func(head); root.right = func(mid.next); return root;
+  - 235 Lowest Common Ancestor of a Binary Search Tree
+    - Success
+    - February 13
+    - Notes: go slow and use sound logic, this is a BST problem, so you can use that to your advantage
+      - simple answer you mainly checking if the current val is higher or lower than p and q
 
 ## Linked Lists
   - 206 Reverse Linked List
