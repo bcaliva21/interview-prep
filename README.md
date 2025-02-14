@@ -33,6 +33,13 @@
     - February 13
     - Notes: go slow and use sound logic, this is a BST problem, so you can use that to your advantage
       - simple answer you mainly checking if the current val is higher or lower than p and q
+  - 513 Find Bottom Left Tree Value
+    - Success
+    - February 13
+    - Notes: BFS question
+      - remember bfs: while(queue.length) {levelLength=queue.length;forLoop(let i=0;i<levelLength;i++){pop.and.process.nodes}}
+      - save the bottomLeft of each level of bfs
+      - there is an optimization here, but I didn't get to it in my 15 minutes time limit this practice session
 
 ## Linked Lists
   - 206 Reverse Linked List
