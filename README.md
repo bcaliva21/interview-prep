@@ -17,6 +17,17 @@
     - February 13
     - Notes: base case returns 0, math.max on both recursive functions for left/right
       - sides of the tree
+  - 109 Convert Sorted List to Binary Search Tree
+    - Failure
+      - watched a few videos and studied a few different leetcode solutions
+      - whiteboarded the recursive solution extensively
+    - February 13
+    - Notes: trust your instincts...
+      - find mid (good old Floyd cycle detection) keep a prev and DISCONNECT it from the list
+      - check if head is == mid to avoid an infinite loop
+      - trust your recursive, tree solving instincts
+        - is head null? getMid; create bst root from mid.val; if head eq mid return root;
+        - root.left = func(head); root.right = func(mid.next); return root;
 
 ## Linked Lists
   - 206 Reverse Linked List
