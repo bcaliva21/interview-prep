@@ -40,6 +40,10 @@
       - remember bfs: while(queue.length) {levelLength=queue.length;forLoop(let i=0;i<levelLength;i++){pop.and.process.nodes}}
       - save the bottomLeft of each level of bfs
       - there is an optimization here, but I didn't get to it in my 15 minutes time limit this practice session
+  - 108 Convert Sorted Array to Binary Search Tree
+    - Failure
+      - had a bug when performing the divide and conquer on the right side of the array
+    - Notes: Be extra careful with divide and conquer when slicing arrays
 
 ## Meta Practice Questions
   - Designer PDF Viewer
