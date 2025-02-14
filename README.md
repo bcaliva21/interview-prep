@@ -43,7 +43,13 @@
   - 108 Convert Sorted Array to Binary Search Tree
     - Failure
       - had a bug when performing the divide and conquer on the right side of the array
+    - February 14
     - Notes: Be extra careful with divide and conquer when slicing arrays
+  - 515 Largest Value in Each Tree Row
+    - Success
+    - February 14
+    - Notes: BFS - be smart about where you define variables with the while/for loop
+
 
 ## Meta Practice Questions
   - Designer PDF Viewer
