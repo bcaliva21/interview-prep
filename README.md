@@ -17,6 +17,15 @@
     - Success
     - February 15
     - Notes: remember to check if the stack is empty!!!
+  - 232 Implement Queue using Stacks
+    - Success
+    - February 15
+    - Notes: Save all values into stack1
+      - when we need a value, pop all elements from stack1 and push into stack2
+      - then we can pop the final value from stack2
+      - save that value
+      - add all values back into stack1
+      - return the saved value
 
 ## Trees
   - 100 Same Tree
@@ -103,6 +112,13 @@
     - Success
     - February 13
     - Notes: Man... and I thought the PDF viewer question was easy xD
+  - Icecream Parlour
+    - Failure
+    - February 15
+    - Notes: Did not read the question carefully, so I made stupid mistakes (they expected 1 based indicies)
+      - I truly hope the questions are not THIS contrived...
+      - lessons to take away, read slow and carefully
+      - ask lots of clarifying questions
 
 ## Linked Lists
   - 206 Reverse Linked List
