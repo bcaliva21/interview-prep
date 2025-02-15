@@ -68,6 +68,13 @@
       - the trick here is TWO global variables
       - typical dfs, if you are at a leaf node, then check if your register is less than your resString
       - remember to clean your register with register = register.slice(1) to avoid duplicates
+  - 98 Validate Binary Search Tree
+    - Failure
+      - just took to long
+    - February 15
+    - Notes: don't over simplify this solution
+      - make sure you are passing down min/max to verify that all nodes adhere to these values on their particular
+      - side of the tree
 
 ## Meta Practice Questions
   - Designer PDF Viewer
