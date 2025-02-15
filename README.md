@@ -1,5 +1,23 @@
 # interview-prep
 
+## Random
+  - 916 Word Subsets
+    - Success... but it took me 25ish minutes
+    - February 15
+    - Notes: no idea how to complete this faster except by talking as fast as humanly understandable
+      - talk FAST
+      - when stepping through code, go FAST
+      - this is straight forward, it's just long and you can fall into a few traps
+      - take only the max number of characters for the words2 array, it's not additive
+      - use a flag to keep track of valid/invalid words
+      - when using javascritp maps you can easily iterate by doing let [key,val] of Array.from(Map)
+
+## Stacks & Queues
+  - hackerrank: Balanced Brackets
+    - Success
+    - February 15
+    - Notes: remember to check if the stack is empty!!!
+
 ## Trees
   - 100 Same Tree
     - Success
