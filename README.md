@@ -19,6 +19,13 @@
     - Notes: straightforward backtracking
       - time complexity O(4^n) where n is the length of digits
       - space complexity 
+  - 46 Permutations
+    - Failure
+      - watched neetcode/ ran through code execution multiple times
+    - February 16
+    - Notes: break the problem into subproblems
+      - idenfity subsets VS permutations while reading the prompt
+      - this ^ should cue you in on how to structure your talking/coding
 
 ## Random
   - 916 Word Subsets
