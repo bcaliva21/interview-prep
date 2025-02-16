@@ -48,6 +48,13 @@
     - Success
     - February 16
     - Notes: Solved it quickly, but I researched a cleaner solution from neetcode.io
+  - 36 Valid Sudoku
+    - Failure
+      - watched some neetcode and solved it np after hearing his logic
+    - February 16
+    - Notes: Make a meta graph to track the box values is smart
+      - using arrays of objects to store all the information is the way to go
+      - doing this results in a time and space complexity of just O(9^2)
 
 ## Stacks & Queues
   - hackerrank: Balanced Brackets
