@@ -13,6 +13,12 @@
       - time complexity O(2^n) Each candidate can be included or excluded, leading to an exponential number of combinations
       - space complexity O(target/min(candidates)): The recursion depth depends on how many times the smallest candidate fits
       - into the target
+  - 17 Letter Combinations of a Phone Number
+    - Success
+    - February 15
+    - Notes: straightforward backtracking
+      - time complexity O(4^n) where n is the length of digits
+      - space complexity 
 
 ## Random
   - 916 Word Subsets
