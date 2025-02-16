@@ -5,6 +5,14 @@
     - Failure
     - February 15
     - Notes: remember to slice() slates to create new arrays to point to different places in memory
+  - 39 Combination Sum
+    - Failure
+    - February 15
+    - Notes: loop through candidates for each backtrack call
+      - space and time complexity are starting to get difficult...
+      - time complexity O(2^n) Each candidate can be included or excluded, leading to an exponential number of combinations
+      - space complexity O(target/min(candidates)): The recursion depth depends on how many times the smallest candidate fits
+      - into the target
 
 ## Random
   - 916 Word Subsets
