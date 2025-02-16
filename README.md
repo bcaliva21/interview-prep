@@ -1,5 +1,11 @@
 # interview-prep
 
+## Backtracking
+  - 78 Subsets
+    - Failure
+    - February 15
+    - Notes: remember to slice() slates to create new arrays to point to different places in memory
+
 ## Random
   - 916 Word Subsets
     - Success... but it took me 25ish minutes
