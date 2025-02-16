@@ -26,6 +26,12 @@
     - Notes: break the problem into subproblems
       - idenfity subsets VS permutations while reading the prompt
       - this ^ should cue you in on how to structure your talking/coding
+  - 47 Permutations II
+    - Success
+    - February 16
+    - Notes: know how to quickly and easily compare arrays to ensure we don't have duplicate arrays in our return array
+      - almost verbatim the same as permutations just make sure to check for duplicates 
+      - JSON.stringify is a quick and dirty way to compare arrays so we do not need to add extra loops and difficulty
 
 ## Random
   - 916 Word Subsets
