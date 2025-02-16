@@ -44,6 +44,10 @@
       - take only the max number of characters for the words2 array, it's not additive
       - use a flag to keep track of valid/invalid words
       - when using javascritp maps you can easily iterate by doing let [key,val] of Array.from(Map)
+  - 49 Group Anagrams
+    - Success
+    - February 16
+    - Notes: Solved it quickly, but I researched a cleaner solution from neetcode.io
 
 ## Stacks & Queues
   - hackerrank: Balanced Brackets
