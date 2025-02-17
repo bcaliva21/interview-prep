@@ -75,6 +75,12 @@
       - save that value
       - add all values back into stack1
       - return the saved value
+  - 739 Daily Temperatures
+    - Success... kind of.  Very naive solutions, I studied some better ones afterwards
+    - February 16
+    - Notes: use a stack, not a naive O(n^2) time complexity solution
+      - save indicies in the stack
+      - always check the last stack item compared to the current index
 
 ## Trees
   - 100 Same Tree
