@@ -32,6 +32,10 @@
     - Notes: know how to quickly and easily compare arrays to ensure we don't have duplicate arrays in our return array
       - almost verbatim the same as permutations just make sure to check for duplicates 
       - JSON.stringify is a quick and dirty way to compare arrays so we do not need to add extra loops and difficulty
+  - 1079 Letter Tile Possibilities
+    - Failure
+    - February 17
+    - Notes: Not your typical backtracking problem, definitely need to review this one
 
 ## Random
   - 916 Word Subsets
