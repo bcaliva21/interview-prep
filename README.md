@@ -55,6 +55,11 @@
     - Notes: Make a meta graph to track the box values is smart
       - using arrays of objects to store all the information is the way to go
       - doing this results in a time and space complexity of just O(9^2)
+  - 128 Longest Consecutive Sequence
+    - Failure
+      - read a leetcode explanation and worked out the code for myself 
+    - February 16
+    - Notes: Save time by only investigating a sequence if it is the start of the sequence
 
 ## Stacks & Queues
   - hackerrank: Balanced Brackets
