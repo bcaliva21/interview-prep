@@ -44,6 +44,12 @@
       - track open and close parens to know when to add which
       - if open < n, you can add n
       - close can only be added if close < open
+  - 77 Combinations
+    - Success
+    - February 17
+    - Notes: standard backtracking
+      - this has two base cases to look up for with the solution you came up with
+      - be wary that sometimes you have more than one basecase when coding up backtracking solutions
 
 ## Random
   - 916 Word Subsets
