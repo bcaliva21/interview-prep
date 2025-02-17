@@ -1,5 +1,13 @@
 # interview-prep
 
+## Sliding Window
+  - 567 Permutation in String
+    - Failure
+    - February 17
+    - Notes: create a hash for s1 and a hash for the sliding window of s2
+      - compare those two hashes
+      - you can also inch forward in a while loop to update the values of the sliding window hash
+
 ## Backtracking
   - 78 Subsets
     - Failure
@@ -77,7 +85,12 @@
     - Failure
       - read a leetcode explanation and worked out the code for myself 
     - February 16
-    - Notes: Save time by only investigating a sequence if it is the start of the sequence
+    - Notes: Save time by only investigating a sequence if it is the start of the Sequence
+  - 208 Implement Trie (Prefix Tree)
+    - Failure
+        - looked up a solution and translated a python solution to js
+    - February 17
+    - Notes: pass the trie position around like you are working with a tree
 
 ## Stacks & Queues
   - hackerrank: Balanced Brackets
