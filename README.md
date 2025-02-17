@@ -255,3 +255,10 @@
       - read some leetcode solutions
     - Notes: use a dummy node
       - start each interation with a while loop to position prev to insert current
+  - 355 Design Twitter
+    - Success -- took 25 minutes
+    - February 17
+    - Notes: go faster I guess?  I didn't get a chance to talk through my solution
+      - When you see long problems like this, don't go so fast that you write bugs
+      - but also... go as fast as possible xD
+
