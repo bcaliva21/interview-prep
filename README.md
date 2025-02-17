@@ -36,6 +36,14 @@
     - Failure
     - February 17
     - Notes: Not your typical backtracking problem, definitely need to review this one
+  - 22 Generate Parenthese
+    - Failure
+      - watched some neetcode, solved after watching his drawing explanation
+    - February 17
+    - Notes: backtracking with a few more conditionals
+      - track open and close parens to know when to add which
+      - if open < n, you can add n
+      - close can only be added if close < open
 
 ## Random
   - 916 Word Subsets
