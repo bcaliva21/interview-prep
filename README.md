@@ -1,5 +1,12 @@
 # interview-prep
 
+## Binary Search
+  - 875 Koko Eating Bananas
+    - Failure
+      - read leetcode solutions, looked at my old solution
+    - February 18
+    - Notes: use a binary search to test values between the min = 1 and max = piles.max
+
 ## Arrays and Hashmaps
   - 238 Product of Array Except Self
     - Failure
