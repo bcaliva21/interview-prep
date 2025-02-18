@@ -243,6 +243,11 @@
     - February 18
     - Notes: common bst problem
       - I wanted an confidence booster, so chose a tree problem xD
+  - 230 Kth Smallest Element in a BST
+    - Success
+    - February 18
+    - Notes: dfs - be care about how you return the answer
+      - keep a moves variable, and you can return the node where moves = k
 
 ## Meta Practice Questions
   - Designer PDF Viewer
