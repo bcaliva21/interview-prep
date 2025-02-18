@@ -20,6 +20,12 @@
     - February 18
     - Notes: this one is pretty straightforward, but I got caught up in semantics...
       - READ SLOWLY AND OUTLOUD so you don't miss silly specifications
+  - 287 Find the Duplicate Number
+    - February 18
+      - learned floyd's cycle detection for arrays
+    - Failure
+    - Notes: floyd's cycle detection for arrays is good here
+      - should be easy to remember
 
 ## Sliding Window
   - 567 Permutation in String
