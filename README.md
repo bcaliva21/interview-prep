@@ -7,6 +7,12 @@
     - February 18
     - Notes: calculate the postfix, calculate the prefix, and get the product of those two values for each position
       - iterate forwards and backwards
+  - 981 Time Based Key-Value Store
+    - Failure
+      - read through some leet code solutions
+    - February 18
+    - Notes: this one is pretty straightforward, but I got caught up in semantics...
+      - READ SLOWLY AND OUTLOUD so you don't miss silly specifications
 
 ## Sliding Window
   - 567 Permutation in String
