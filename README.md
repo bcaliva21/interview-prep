@@ -232,6 +232,11 @@
     - Notes: don't over simplify this solution
       - make sure you are passing down min/max to verify that all nodes adhere to these values on their particular
       - side of the tree
+  - 102 Binary Tree Level Order Traversal
+    - Success
+    - February 18
+    - Notes: common bst problem
+      - I wanted an confidence booster, so chose a tree problem xD
 
 ## Meta Practice Questions
   - Designer PDF Viewer
