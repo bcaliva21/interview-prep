@@ -1,5 +1,13 @@
 # interview-prep
 
+## Arrays and Hashmaps
+  - 238 Product of Array Except Self
+    - Failure
+      - watched neetcode, walked through multiple solutions afterwards
+    - February 18
+    - Notes: calculate the postfix, calculate the prefix, and get the product of those two values for each position
+      - iterate forwards and backwards
+
 ## Sliding Window
   - 567 Permutation in String
     - Failure
