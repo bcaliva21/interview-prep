@@ -98,7 +98,11 @@
     - Failure
         - looked up a solution and translated a python solution to js
     - February 17
-    - Notes: pass the trie position around like you are working with a tree
+    - Notes: pass the trie position around like you are working with a Tree
+  - 1 Two Sum
+    - Success
+    - February 17
+    - Notes: Use a map and save the diff equal to the index.  Nice and easy
 
 ## Stacks & Queues
   - hackerrank: Balanced Brackets
