@@ -329,4 +329,12 @@
     - Notes: go faster I guess?  I didn't get a chance to talk through my solution
       - When you see long problems like this, don't go so fast that you write bugs
       - but also... go as fast as possible xD
+  - 2 Add Two Numbers
+    - Failure
+      - read through some leetcode solutions
+    - February 18
+    - Notes: I'll write the helpful equations learned below
+      - use VALUE % 10 to get the rightmost number from VALUE 108 % 10 = 8 
+      - use Math.floor(VALUE/10) to get everything EXCEPT the rightmost number of VALUE Math.floor(108 / 10) = 10
+
 
