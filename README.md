@@ -120,6 +120,10 @@
     - Notes: use a stack, not a naive O(n^2) time complexity solution
       - save indicies in the stack
       - always check the last stack item compared to the current index
+  - 155 Min Stack
+    - Success
+    - February 17
+    - Notes: use two stacks, one for the min and one for regular values
 
 ## Trees
   - 100 Same Tree
