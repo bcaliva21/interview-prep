@@ -136,6 +136,13 @@
     - Success
     - February 17
     - Notes: use two stacks, one for the min and one for regular values
+  - 2375 Construct Smallest Number From DI String
+    - Cheated
+      - watched neetcode solve it on the crapper, so I did it afterwards as a confidence booster
+    - February 18
+    - Notes: use a stack to collect all values
+      - only place values in the output array if the pattern is an 'I' or your iterator is out of bounds of the pattern array
+      - use an array to store values and convert it to a string at the end of the function
 
 ## Trees
   - 100 Same Tree
