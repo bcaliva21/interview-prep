@@ -7,6 +7,14 @@
     - Notes: create a hash for s1 and a hash for the sliding window of s2
       - compare those two hashes
       - you can also inch forward in a while loop to update the values of the sliding window hash
+  - 424 Longest Repeating Character Replacement
+    - Failure -- close... but not quite
+      - studied up with neetcode
+    - Notes: Very similar to permutations in string, keep a hash map
+      - inch forward with an i and j and keep the hash map updated as you iterate
+      - this one has some 'tricky' maths, just take it slow and think it through so you don't mess up
+      - j - i + 1 for the length of a window
+      - discovered this js hack for setting keys on a frequency counter map: {freq[char] = freq[char] + 1 || 1}
 
 ## Backtracking
   - 78 Subsets
