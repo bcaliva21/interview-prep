@@ -108,6 +108,11 @@
     - Notes: the while loop above from subsets II came in handy here
       - Big thing I notice I stumble on from time to time with backtracking is when you need to loop
       - in dfs/backtrack function.  Always put extra thought into this process.
+  - 216 Combination Sum III
+    - Success
+    - February 19
+    - Notes: typical backtracking.  Do not forget the extra constraints on the basecase for adding
+      - a combination to the result array
 
 ## Random
   - 916 Word Subsets
