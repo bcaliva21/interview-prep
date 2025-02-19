@@ -93,6 +93,15 @@
     - Notes: standard backtracking
       - this has two base cases to look up for with the solution you came up with
       - be wary that sometimes you have more than one basecase when coding up backtracking solutions
+  - 90 Subsets II
+    - Failure
+      - watched neetcode, studied a few leetcode solutions
+    - February 18
+    - Notes: my nasty way of avoiding duplicates did not work :(
+      - sort the array
+      - do standard backtracking
+      - one change... add a while loop that checks for nums[i] === num[i+1]
+        - doing this above, will help to avoid duplicate subsets
 
 ## Random
   - 916 Word Subsets
