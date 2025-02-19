@@ -102,6 +102,12 @@
       - do standard backtracking
       - one change... add a while loop that checks for nums[i] === num[i+1]
         - doing this above, will help to avoid duplicate subsets
+  - 40 Combination Sum II
+    - Success
+    - February 19
+    - Notes: the while loop above from subsets II came in handy here
+      - Big thing I notice I stumble on from time to time with backtracking is when you need to loop
+      - in dfs/backtrack function.  Always put extra thought into this process.
 
 ## Random
   - 916 Word Subsets
