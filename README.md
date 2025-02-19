@@ -130,6 +130,11 @@
     - Success
     - February 17
     - Notes: Use a map and save the diff equal to the index.  Nice and easy
+  - 211 Design Add and Search Words Data Structure
+    - Failure
+    - February 18
+    - Notes: similar to a trie, but you want to use recursion to handle the wild card case
+      - keep the addWord simple, only use recursion for the search function
 
 ## Stacks & Queues
   - hackerrank: Balanced Brackets
