@@ -1,5 +1,14 @@
 # interview-prep
 
+## Meta Practice Questions
+  - 31 Next Permutation
+    - Notes: just memorize this one...
+  - Binary Tree Vertical Order
+    - Notes: bfs.  start a col val at 0
+      - when you travese node.left, decrement the col val
+      - when you traverse node.right, increment the col val
+      - pass in a tuple to the queue [node, col]
+
 ## Graphs
   - 200 Number of Islands
     - Success
