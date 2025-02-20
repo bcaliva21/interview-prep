@@ -5,6 +5,11 @@
     - Success
     - February 19
     - Notes: I solved this with bfs, probably can solve it with dfs and save some extra typing
+  - 695 Max Area of Island
+    - Success
+    - February 19
+    - Notes: similar to Number of Islands, just keep a maxArea variable and be smart about when
+      - you update it
 
 ## Binary Search
   - 875 Koko Eating Bananas
