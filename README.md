@@ -1,5 +1,11 @@
 # interview-prep
 
+## Graphs
+  - 200 Number of Islands
+    - Success
+    - February 19
+    - Notes: I solved this with bfs, probably can solve it with dfs and save some extra typing
+
 ## Binary Search
   - 875 Koko Eating Bananas
     - Failure
