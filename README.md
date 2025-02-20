@@ -102,6 +102,12 @@
     - February 16
     - Notes: know how to quickly and easily compare arrays to ensure we don't have duplicate arrays in our return array
       - almost verbatim the same as permutations just make sure to check for duplicates 
+  - 1980 Find Unique Binary String
+    - Failure
+      - so close...
+    - February 20
+    - Notes: spent too long trying to figure out how to backtrack correctly, need more practice on creating dfs
+        - backtracking functions
 
       - JSON.stringify is a quick and dirty way to compare arrays so we do not need to add extra loops and difficulty
   - 1079 Letter Tile Possibilities
