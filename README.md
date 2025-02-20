@@ -10,6 +10,10 @@
     - February 19
     - Notes: similar to Number of Islands, just keep a maxArea variable and be smart about when
       - you update it
+  - 133 Clone Graph
+    - Failure
+    - February 20
+    - Notes: make sure you are using the cloned verticies to populate the return clone
 
 ## Binary Search
   - 875 Koko Eating Bananas
@@ -51,6 +55,7 @@
 
 ## Sliding Window
   - 567 Permutation in String
+
     - Failure
     - February 17
     - Notes: create a hash for s1 and a hash for the sliding window of s2
@@ -75,6 +80,7 @@
     - February 15
     - Notes: loop through candidates for each backtrack call
       - space and time complexity are starting to get difficult...
+
       - time complexity O(2^n) Each candidate can be included or excluded, leading to an exponential number of combinations
       - space complexity O(target/min(candidates)): The recursion depth depends on how many times the smallest candidate fits
       - into the target
@@ -96,6 +102,7 @@
     - February 16
     - Notes: know how to quickly and easily compare arrays to ensure we don't have duplicate arrays in our return array
       - almost verbatim the same as permutations just make sure to check for duplicates 
+
       - JSON.stringify is a quick and dirty way to compare arrays so we do not need to add extra loops and difficulty
   - 1079 Letter Tile Possibilities
     - Failure
