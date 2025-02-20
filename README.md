@@ -12,6 +12,17 @@
       - read leetcode solutions, looked at my old solution
     - February 18
     - Notes: use a binary search to test values between the min = 1 and max = piles.max
+  - Implement Binary Search
+    - Success
+    - February 19
+    - Notes: easy peasy
+  - 74 Search a 2D Matrix
+    - Success
+    - February 19
+    - Notes: Use a slighly modified binary search to find the row
+      - Above is slightly different than a regular binary search, you want to use different values to compare
+      - to target -- matrix[mid][COL_LEN-1] < target and matrix[mid][0] > target
+      - implement a binary search function to use on the found row
 
 ## Arrays and Hashmaps
   - 238 Product of Array Except Self
