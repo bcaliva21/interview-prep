@@ -21,6 +21,9 @@
     - Notes: use QuickSelect
       - this is trivial to solve with sort and with keeping an extra space array
       - study the quickSelect algorithm a few times, it's not too difficult
+  - Basic Calulator II
+    - Notes: keep a prev value you can use to remove operations that are out of order
+    - this one is easy to mess up, study it a few times to cement it in your brain
 
 ## Graphs
   - 200 Number of Islands
