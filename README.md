@@ -24,6 +24,8 @@
   - Basic Calulator II
     - Notes: keep a prev value you can use to remove operations that are out of order
     - this one is easy to mess up, study it a few times to cement it in your brain
+  - Subarray Sum Equals K
+    - Notes: it is hard to explain this one, study the code 
 
 ## Graphs
   - 200 Number of Islands
