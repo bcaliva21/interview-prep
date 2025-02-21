@@ -26,6 +26,8 @@
     - this one is easy to mess up, study it a few times to cement it in your brain
   - Subarray Sum Equals K
     - Notes: it is hard to explain this one, study the code 
+  - Valid Word Abbreviation
+    - Notes: Not too bad.  Don't just return true, check that both i and j have traversed their respective string
 
 ## Graphs
   - 200 Number of Islands
