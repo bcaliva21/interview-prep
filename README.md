@@ -8,6 +8,15 @@
       - when you travese node.left, decrement the col val
       - when you traverse node.right, increment the col val
       - pass in a tuple to the queue [node, col]
+  - Random Pick with Weight
+    - Notes: iterate through the input array
+      - as you iterate collect the sum, for each element store the current sum in a weights arr
+      - pickIndex
+        - create a random number with the upper bound being the sum
+        - do a binary search
+        - for this binary search we are looking for a weight that is greater than or equal to our random number
+        - l <= r for the while loop
+        - return l
 
 ## Graphs
   - 200 Number of Islands
