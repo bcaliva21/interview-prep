@@ -17,6 +17,10 @@
         - for this binary search we are looking for a weight that is greater than or equal to our random number
         - l <= r for the while loop
         - return l
+  - Kth Largest Element in an Array
+    - Notes: use QuickSelect
+      - this is trivial to solve with sort and with keeping an extra space array
+      - study the quickSelect algorithm a few times, it's not too difficult
 
 ## Graphs
   - 200 Number of Islands
