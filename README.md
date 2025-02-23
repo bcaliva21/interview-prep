@@ -28,6 +28,10 @@
     - Notes: it is hard to explain this one, study the code 
   - Valid Word Abbreviation
     - Notes: Not too bad.  Don't just return true, check that both i and j have traversed their respective string
+  - 339 Nested List Weight Sum
+    - Success
+    - February 22
+    - Notes: use recursion, pretty straight forward
 
 ## Graphs
   - 200 Number of Islands
