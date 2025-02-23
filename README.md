@@ -61,6 +61,11 @@
       - Above is slightly different than a regular binary search, you want to use different values to compare
       - to target -- matrix[mid][COL_LEN-1] < target and matrix[mid][0] > target
       - implement a binary search function to use on the found row
+  - 153 Find Minimum in Roated Sorted Array
+    - Success
+    - February 22
+    - Notes: Just use binary search and talk through the binary search
+      - while using pointers on a whiteboard or on code
 
 ## Arrays and Hashmaps
   - 238 Product of Array Except Self
