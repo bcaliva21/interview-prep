@@ -70,6 +70,12 @@
     - February 22
     - Notes: Just use binary search and talk through the binary search
       - while using pointers on a whiteboard or on code
+  - 162 Find Peak Element
+    - Success
+    - February 23
+    - Notes: Modified binary search
+      - if mid is the peak, you found a solution
+      - otherwise, which ever neighbor is greater than m, then refine your binary search in that direction
 
 ## Arrays and Hashmaps
   - 238 Product of Array Except Self
