@@ -265,7 +265,16 @@
     - February 18
     - Notes: use a stack to collect all values
       - only place values in the output array if the pattern is an 'I' or your iterator is out of bounds of the pattern array
-      - use an array to store values and convert it to a string at the end of the function
+      - use an array to store values and convert it to a string at the end of the functions
+  - 71 Simplify Path
+    - Success
+    - February 23
+    - Notes: use a stack
+      - add a '/' to the end of the input path
+      - use a current variable to build the files/directories
+      - if current === '..' pop the top of the stack
+      - if current is not empty and is not a '.', then you can add it to the stack
+      - remember to return '/' + stack.join('/')
 
 ## Trees
   - 100 Same Tree
