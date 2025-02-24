@@ -32,6 +32,11 @@
     - Success
     - February 22
     - Notes: use recursion, pretty straight forward
+  - 1570 Dot Product of Two Sparse Vectors
+    - Success
+    - February 23
+    - Notes: use a tuple approach [idx, val]
+      - use two pointers when computing the product
 
 ## Graphs
   - 200 Number of Islands
